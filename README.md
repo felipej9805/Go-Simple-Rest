@@ -1,5 +1,11 @@
 # Simple GO REST API
 
+<img src="https://1.bp.blogspot.com/-J_7Dq7ovbwQ/XmFfXD2wAmI/AAAAAAAAr6I/6_sUNbgsrsofNg7xoIrJndN1xida3XdDwCLcBGAsYHQ/s1600/Golang.png"
+     alt="Go"
+     width="80%" height="50%"
+     class="aligncenter"
+     />
+
 > Simple RESTful API to create, read, update and delete books. No database implementation yet
 ## Quick Start
 
